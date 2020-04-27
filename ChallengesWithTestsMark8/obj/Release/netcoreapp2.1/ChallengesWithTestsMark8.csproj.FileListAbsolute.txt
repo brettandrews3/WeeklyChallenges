@@ -1,0 +1,12 @@
+/Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Release/netcoreapp2.1/ChallengesWithTestsMark8.csprojAssemblyReference.cache
+/Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Release/netcoreapp2.1/ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache
+/Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Release/netcoreapp2.1/ChallengesWithTestsMark8.AssemblyInfoInputs.cache
+/Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Release/netcoreapp2.1/ChallengesWithTestsMark8.AssemblyInfo.cs
+/Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Release/netcoreapp2.1/ChallengesWithTestsMark8.deps.json
+/Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Release/netcoreapp2.1/ChallengesWithTestsMark8.runtimeconfig.json
+/Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Release/netcoreapp2.1/ChallengesWithTestsMark8.runtimeconfig.dev.json
+/Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Release/netcoreapp2.1/ChallengesWithTestsMark8.dll
+/Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Release/netcoreapp2.1/ChallengesWithTestsMark8.pdb
+/Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Release/netcoreapp2.1/ChallengesWithTestsMark8.dll
+/Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Release/netcoreapp2.1/ChallengesWithTestsMark8.pdb
+/Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Release/netcoreapp2.1/ChallengesWithTestsMark8.genruntimeconfig.cache
