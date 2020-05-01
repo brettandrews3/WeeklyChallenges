@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace ChallengesWithTestsMark8
 {
@@ -7,17 +8,30 @@ namespace ChallengesWithTestsMark8
     {
         public bool ArrayContainsAFalse(bool[] vals)
         {
-            throw new NotImplementedException();
+            if(vals.Contains(false))
+            {
+                return true;
+            }
+            return false;
         }
 
         public bool IsSumOfOddsOdd(IEnumerable<int> numbers)
         {
-            throw new NotImplementedException();
+            if (numbers.Sum() != 0)
+            {
+                return true;
+            }
+            return false;
         }
 
         public bool PasswordContainsUpperLowerAndNumber(string password)
         {
-            throw new NotImplementedException();
+            //if (!password.Contains(IsUpper().IsLower().IsDigit()))
+            //{
+              //  return;
+            //}
+            //return true;
+
         }
 
         public char GetFirstLetterOfString(string val)
@@ -27,13 +41,18 @@ namespace ChallengesWithTestsMark8
 
         public char GetLastLetterOfString(string val)
         {
-            throw new NotImplementedException();
+            if(val.Length == 0)
+            {
+                throw new NotImplementedException();
+            }
+            return val[0];
         }
 
         public decimal Divide(decimal dividend, decimal divisor)
         {
-            throw new NotImplementedException();
+            return dividend / divisor;
         }
+        
 
         public int LastMinusFirst(int[] nums)
         {
@@ -45,9 +64,11 @@ namespace ChallengesWithTestsMark8
             throw new NotImplementedException();
         }
 
-        public void ChangeAllElementsToUppercase(string[] words)
+        public string ChangeAllElementsToUppercase(string[] words)
         {
-            throw new NotImplementedException();
+            var str = words[];
+            return str.ToUpper();
         }
+        
     }
 }

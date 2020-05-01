@@ -1,0 +1,4 @@
+/Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Release/netcoreapp2.1/ChallengesWithTestsMark8.Tests.csprojAssemblyReference.cache
+/Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Release/netcoreapp2.1/ChallengesWithTestsMark8.Tests.csproj.CoreCompileInputs.cache
+/Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Release/netcoreapp2.1/ChallengesWithTestsMark8.Tests.AssemblyInfoInputs.cache
+/Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Release/netcoreapp2.1/ChallengesWithTestsMark8.Tests.AssemblyInfo.cs
