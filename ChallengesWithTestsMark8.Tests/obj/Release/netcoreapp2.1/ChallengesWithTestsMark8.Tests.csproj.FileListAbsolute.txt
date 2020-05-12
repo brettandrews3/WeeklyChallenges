@@ -2,3 +2,17 @@
 /Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Release/netcoreapp2.1/ChallengesWithTestsMark8.Tests.csproj.CoreCompileInputs.cache
 /Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Release/netcoreapp2.1/ChallengesWithTestsMark8.Tests.AssemblyInfoInputs.cache
 /Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Release/netcoreapp2.1/ChallengesWithTestsMark8.Tests.AssemblyInfo.cs
+/Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Release/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Release/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Release/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Release/netcoreapp2.1/ChallengesWithTestsMark8.Tests.deps.json
+/Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Release/netcoreapp2.1/ChallengesWithTestsMark8.Tests.runtimeconfig.json
+/Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Release/netcoreapp2.1/ChallengesWithTestsMark8.Tests.runtimeconfig.dev.json
+/Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Release/netcoreapp2.1/ChallengesWithTestsMark8.Tests.dll
+/Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Release/netcoreapp2.1/ChallengesWithTestsMark8.Tests.pdb
+/Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Release/netcoreapp2.1/ChallengesWithTestsMark8.dll
+/Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Release/netcoreapp2.1/ChallengesWithTestsMark8.pdb
+/Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Release/netcoreapp2.1/ChallengesWithTestsMark8.Tests.csproj.CopyComplete
+/Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Release/netcoreapp2.1/ChallengesWithTestsMark8.Tests.dll
+/Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Release/netcoreapp2.1/ChallengesWithTestsMark8.Tests.pdb
+/Users/brettandrews/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Release/netcoreapp2.1/ChallengesWithTestsMark8.Tests.genruntimeconfig.cache

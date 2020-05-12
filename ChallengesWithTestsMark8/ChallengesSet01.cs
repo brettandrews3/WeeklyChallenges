@@ -51,9 +51,9 @@ namespace ChallengesWithTestsMark8
         }
 
         string heyGreeting = "HEY!";
-        public string GetHey(string heyGreeting)
+        public string GetHey()
         {
-                return heyGreeting;
+                return "HEY!";
         }
     }
 }
